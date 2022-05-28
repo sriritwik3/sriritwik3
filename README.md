@@ -1,7 +1,5 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Sri%20Ritwik&fontSize=30&animation=twinkling)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 Hello there! I am Sri Ritwik, an undergraduate studying in IIIT SriCity. I'm an introvert i.e I don't **EXPRESS** my feelings much. But if i ever have to, each and every **NODE** in my heart **REACTS** with **JAVASCRIPT**. **C++** and **Competitive Programming** always had a special place in my heart but they are still struck in my **CALLBACK QUEUE** hoping if I ever call them back but my **CALL STACK** is busy with JS and webdev
